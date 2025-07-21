@@ -1,0 +1,10 @@
+# Flutter/Pub related
+.dart_tool/
+.packages
+.build/
+pubspec.lock
+# Misc
+.idea/
+.vscode/
+# Build outputs
+build/
